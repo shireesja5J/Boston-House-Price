@@ -69,6 +69,7 @@ Trained ML model processes the input
 Predicted house price is displayed on the UI
 
 ### Output
+##link:http://127.0.0.1:5000
 The application provides a fast and accurate house price prediction based on learned patterns from the dataset.
 
 <img width="1546" height="748" alt="image" src="https://github.com/user-attachments/assets/85d7a7cf-2180-4a16-8387-1cf6f880ead9" />
