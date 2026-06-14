@@ -94,29 +94,3 @@ Users can enter details such as:
 
 After entering the values, the system processes the data and returns a predicted house price instantly.
 
-### Features
-1.Simple and user-friendly UI
-2.Input fields organized in card-style layout
-3.Real-time prediction using trained ML model
-4.Flask backend integration
-5.Responsive design using Bootstrap
-
-###Technologies Used
-Python
-Flask
-Scikit-learn
-Pandas & NumPy
-HTML, CSS, Bootstrap
-Machine Learning Regression Model
-
-### How it Works
-User enters house features in the form
-Data is sent to Flask backend
-Trained ML model processes the input
-Predicted house price is displayed on the UI
-
-### Output
-The application provides a fast and accurate house price prediction based on learned patterns from the dataset.
-=======
-# Boston-House-Price
-
