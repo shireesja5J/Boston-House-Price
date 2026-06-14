@@ -84,12 +84,19 @@ The model is trained using the California Housing Dataset and uses regression te
 Users can enter details such as:
 
 1.Median Income (MedInc)
+
 2.House Age
+
 3.Average Rooms
+
 4.Average Bedrooms
+
 5.Population
+
 6.Average Occupancy
+
 7.Latitude
+
 8.Longitude
 
 After entering the values, the system processes the data and returns a predicted house price instantly.
