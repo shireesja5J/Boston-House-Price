@@ -49,6 +49,9 @@ def predict():
         'home.html',
         prediction_text='The House price prediction is {}'.format(output)
     )
+@app.route('/predict', methods=['POST'])
+def predict():
+    return "result"
 
 if __name__ == "__main__":
     app.run(debug=True)
