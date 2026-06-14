@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Boston-House-Pricing
 ### Software And Tools Requirements
 
@@ -121,3 +122,6 @@ Predicted house price is displayed on the UI
 
 ### Output
 The application provides a fast and accurate house price prediction based on learned patterns from the dataset.
+=======
+# Boston-House-Price
+>>>>>>> d627a12c35027565e3ef5be4b63cfc272cb16f29
