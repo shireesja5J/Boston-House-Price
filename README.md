@@ -10,9 +10,6 @@
 
 4.[GitCLI](https://git.scm.com/book/en/v2/Getting.Started-The-Command-Line)
 
-<<<<<<< HEAD
-
-### House Price Prediction Web App – Description
 
 This is a Machine Learning Web Application built using Flask that predicts house prices based on various input features.
 =======
