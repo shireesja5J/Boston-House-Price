@@ -73,13 +73,11 @@ Trained ML model processes the input
 Predicted house price is displayed on the UI
 
 ### Output
-##link:http://127.0.0.1:5000
 The application provides a fast and accurate house price prediction based on learned patterns from the dataset.
+<img width="1546" height="748" alt="image" src="https://github.com/user-attachments/assets/d32e9173-b962-476f-9791-1956aba54a44" />
 
-<img width="1546" height="748" alt="image" src="https://github.com/user-attachments/assets/85d7a7cf-2180-4a16-8387-1cf6f880ead9" />
+<img width="1237" height="181" alt="image" src="https://github.com/user-attachments/assets/b11ce29f-bcc4-448d-9bf7-8e0ea5bdd8f9" />
 
-<img width="1237" height="181" alt="image" src="https://github.com/user-attachments/assets/139cc79d-c8ad-4622-b1b6-b676ba688717" />
->>>>>>> 744fa8144529e14604c6516745e4c92587037828
 
 The model is trained using the California Housing Dataset and uses regression techniques to estimate property prices accurately.
 
@@ -121,4 +119,4 @@ Predicted house price is displayed on the UI
 The application provides a fast and accurate house price prediction based on learned patterns from the dataset.
 =======
 # Boston-House-Price
->>>>>>> d627a12c35027565e3ef5be4b63cfc272cb16f29
+
